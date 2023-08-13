@@ -1,6 +1,5 @@
-# preparing-chicago-crime-data
+# Chicago Crime Data
+
+## Tableau
+[Follow this link to see the 7 Tableau visualizations created for this dataset!](https://public.tableau.com/views/Project4withTableau_16916942941370/ChicagoCrimeData2021-2022?:language=en-US&:display_count=n&:origin=viz_share_link)
  
-- This repo contains a notebook for processing Chiacgo Crime data into a repo-friendly format. 
-- To use this notebook: 
-    - either fork this repository to your own account, and then rename it to be someting like "Project-4"
-    - or download the notebook and save it in your own Project 4 repository.
