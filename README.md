@@ -33,3 +33,9 @@ After running three different comparisons, here are the results:
         - 'OBSCENITY'
         - 'OFFENSE INVOLVING CHILDREN'
         - 'RITUALISM' (drops substantially April to July and spikes in August)
+     
+# Chicago Crime Data Dashboard
+[Follow this link to see the Tableau Dashboard for this dataset!](https://public.tableau.com/views/ProjectDashboard_16922251840300/ChicagoCrime2021-2022?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+## Screenshot
+![Dashboard Chicago Crime](https://github.com/jonnunez92/Project-4---Chicago-Crime-Data/blob/main/Data/Main%20Dashboard%20Chicago%20Crime%20Data.png?raw=true)
